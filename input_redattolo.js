@@ -1,5 +1,5 @@
 // URL of the external file
-const fileUrl = "https://raw.githubusercontent.com/napolux/paroleitaliane/refs/heads/master/paroleitaliane/1000_parole_italiane_comuni.txt"; // Replace with the actual URL
+const fileUrl = "https://raw.githubusercontent.com/edoardo100/redattolo_autofill/refs/heads/main/wordlist.txt"; // Replace with the actual URL
 
 // Function to fetch and parse words from an external file
 const fetchWords = async (url) => {
